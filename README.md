@@ -7,7 +7,7 @@
 - 💻 Software Developer Trainee at eSkill Indore
 - 🌐 Building Full-Stack Web Applications with React, Next.js & Node.js
 - 🤖 Exploring AI Integration using Google Gemini and Claude APIs
-- 📚 Currently pursuing BCA at Mandsaur University
+- 📚 Currently pursuing MCA at RGPV
 - 🚀 Looking for Full-Stack / AI Integration Internships
 
 ## Skills
