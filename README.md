@@ -4,11 +4,11 @@
 
 ## About Me
 
-- 💻 Software Developer Trainee at eSkill Indore
+- 💻 Mern Stack Intern at Bytebillion Technology Indore
 - 🌐 Building Full-Stack Web Applications with React, Next.js & Node.js
 - 🤖 Exploring AI Integration using Google Gemini and Claude APIs
 - 📚 Currently pursuing MCA at RGPV
-- 🚀 Looking for Full-Stack / AI Integration Internships
+
 
 ## Skills
 
